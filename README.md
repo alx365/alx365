@@ -3,9 +3,13 @@
  I don't like to describe myself, so here is what my friends/family say about me:
 
  -The New York Times "Not the lightest bulb in the box."
+ 
  -Donald Trump "And you call me an idiot?!?!??"
+ 
  -My Mother "He's adopted."
+ 
  -PewDiePie "0/10, NEXT MEME!"
+
 
 <!--
 **alx365/alx365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
