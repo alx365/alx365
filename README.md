@@ -10,7 +10,7 @@
  
  -PewDiePie "0/10, NEXT MEME!"
 
-
+[![HitCount](http://hits.dwyl.com/alx365/alx365.svg)](http://hits.dwyl.com/alx365/alx365)
 <!--
 **alx365/alx365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
