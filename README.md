@@ -9,5 +9,4 @@
  -My Mother "He's adopted."
  
  -PewDiePie "0/10, NEXT MEME!"
-
-[![So many people already saw this >.<](http://hits.dwyl.com/alx365/alx365.svg)](http://hits.dwyl.com/alx365/alx365)
+[![HitCount](http://hits.dwyl.com/alx365/alx365.svg)](http://hits.dwyl.com/alx365/alx365)
