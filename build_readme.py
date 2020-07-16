@@ -29,7 +29,7 @@ for w in sorted(dates, key=dates.get, reverse=True):
     if run < 4:
         print(w + " " + dates[w][0] + " " + dates[w][1])
         
-        injection_text = injection_text + "\n "+ str(run) + " . [" + w +"]("+dates[w][1]+"): " + dates[w][0]
+        injection_text = injection_text + "\n\n "+ str(run) + " . [" + w +"]("+dates[w][1]+"): " + dates[w][0]
         
         
 #print(injection_text)
