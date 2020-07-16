@@ -35,9 +35,6 @@ jobs:
     - name: Install Python dependencies
       run: |
         python -m pip install -r requirements.txt
-      
-    - name: Deleted the readme, to generate a new one
-      run: rm 'README.md'
     - name: Update README
       env:
         SIMONW_TOKEN: ${{ secrets.SIMONW_TOKEN }}
