@@ -40,11 +40,13 @@ jobs:
         SIMONW_TOKEN: ${{ secrets.SIMONW_TOKEN }}
       run: |-
         python build_readme.py
-        cat README.md
+    - name: Read README
+      run: cat README.md
     
     
     - name: Commit and push if README changed
       run: |-
+        git status
         git diff
         git config --global user.email "readme-bot@example.com"
         git config --global user.name "README-bot"
