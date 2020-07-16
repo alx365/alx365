@@ -13,9 +13,7 @@
 
 ### Latest releases:
 
- 1 . [alx365](https://github.com/alx365/alx365): 2020-07-15T18:57:37Z
+ 1 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
 
- 2 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
-
- 3 . [Themefox-Manager](https://github.com/alx365/Themefox-Manager): 2020-06-19T15:22:01Z
+ 2 . [Themefox-Manager](https://github.com/alx365/Themefox-Manager): 2020-06-19T15:22:01Z
 
