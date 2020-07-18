@@ -1,6 +1,6 @@
 # HOW DA HECK DID YOU GET TO MY GITHUB PROFILE?!?!?!
 ### ANYWAYS HERE IS A SMALL BIO:
- I don't like to describe myself, so here is what my friends/family say about me:
+ I don't like to describe myself, so here is what my [friends/family](https://www.youtube.com/watch?v=-QRR7TPQizI) say about me:
 
  -The New York Times "Not the lightest bulb in the box."
  
@@ -10,6 +10,7 @@
  
  -PewDiePie "0/10, NEXT MEME!"
  
+ -Rick Astley "I would give him up"
 
 ///////////////////////////AUTOMATIC CONTENT GOES HERE///////////////////////////
 
