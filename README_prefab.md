@@ -18,6 +18,11 @@
 
  -Disney "Even worse than our latest Star Wars film"
 
+ -Epig Games "We wouldn't sign a contract to make him a epig games store exclusive:
+ > We'll have a quality standard that doesn't accept crappy games"
+
+ 
+
 
 ///////////////////////////AUTOMATIC CONTENT GOES HERE///////////////////////////
 
