@@ -12,6 +12,7 @@
  
  -Rick Astley "I would give him up"
 
+ -Justin Bieber "Even worse than my songs"
 ### Latest releases:
 
  1 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
