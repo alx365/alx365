@@ -16,7 +16,7 @@
 
  -Cocomelon "Even cringier than i am"
 
- -Disney "Even worse than our latest Star Wars film"
+  -Disney "Even worse than our latest Star Wars film"
 
  -Epig Games "We wouldn't sign a contract to make him a epig games store exclusive:
  > We'll have a quality standard that doesn't accept crappy games", Tim Sweeny
@@ -28,8 +28,17 @@
 
 The "latest releases" section was auto-generated, have a look at the repo, to learn how.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alx365" alt="alx365" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alx365&show_icons=true" alt="alx365" /> </p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alx365" alt="alx365" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alx365&show_icons=true&theme=radical" alt="alx365" /> 
+</p> 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365&theme=radical" />
+</p>
+
+
+
 
 
