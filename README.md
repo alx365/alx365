@@ -36,7 +36,7 @@ The "latest releases" section was auto-generated, have a look at the repo, to le
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alx365" alt="alx365" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alx365&show_icons=true&theme=radical" alt="alx365" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alx365" alt="alx365" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alx365&show_icons=true&theme=radical" alt="alx365" /> 
 </p> 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365&theme=radical" />
