@@ -26,9 +26,11 @@
 
 ### Latest releases:
 
- 1 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
+ 1 . [cargo-aur-packer](https://github.com/alx365/cargo-aur-packer): 2020-09-07T17:29:48Z
 
- 2 . [Themefox-Manager](https://github.com/alx365/Themefox-Manager): 2020-06-19T15:22:01Z
+ 2 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
+
+ 3 . [Themefox-Manager](https://github.com/alx365/Themefox-Manager): 2020-06-19T15:22:01Z
 
 The "latest releases" section was auto-generated, have a look at the repo, to learn how.
 
