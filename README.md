@@ -26,7 +26,7 @@
 
 ### Latest releases:
 
- 1 . [cargo-aur-packer](https://github.com/alx365/cargo-aur-packer): 2020-09-07T17:29:48Z
+ 1 . [cargo-aur-packer](https://github.com/alx365/cargo-aur-packer): 2020-09-27T19:45:54Z
 
  2 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
 
