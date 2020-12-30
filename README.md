@@ -22,29 +22,9 @@
  > We'll have a quality standard that doesn't accept crappy games", Tim Sweeny
 
 
-
-
-### Latest releases:
-
- 1 . [cargo-aur-packer](https://github.com/alx365/cargo-aur-packer): 2020-09-27T19:45:54Z
-
- 2 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
-
- 3 . [Themefox-Manager](https://github.com/alx365/Themefox-Manager): 2020-06-19T15:22:01Z
-
-The "latest releases" section was auto-generated, have a look at the repo, to learn how.
-
-
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alx365" alt="alx365" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alx365&show_icons=true&theme=radical" alt="alx365" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=legendofmiracles" alt="legendofmiracles" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alx365&show_icons=true&theme=radical" alt="legendofmiracles" /> 
 </p> 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendofmiracles&theme=radical" />
 </p>
-
-
-
-
 
