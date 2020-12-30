@@ -22,7 +22,7 @@
  > We'll have a quality standard that doesn't accept crappy games", Tim Sweeny
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=legendofmiracles" alt="legendofmiracles" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alx365&show_icons=true&theme=radical" alt="legendofmiracles" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=legendofmiracles" alt="legendofmiracles" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=legendofmiracles&show_icons=true&theme=radical" alt="legendofmiracles" /> 
 </p> 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendofmiracles&theme=radical" />
